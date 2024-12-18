@@ -7,5 +7,5 @@ $$\textcolor{NavyBlue}{\large \textbf{D}}\textcolor{lightblue}{\Large \textbf{1}
   <img src="https://github.com/user-attachments/assets/b46bbc9f-0572-46a1-94bc-7a800f5f876e" alt="GW0Y" width="420" />
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5d0cd4eb-0139-4261-a9eb-46c2dedfbfa8" alt="GW0j" width="840" />
+  <img src="https://github.com/user-attachments/assets/5d0cd4eb-0139-4261-a9eb-46c2dedfbfa8" alt="GW0j" width="840" height="80" />
 </p>
