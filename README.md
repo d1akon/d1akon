@@ -3,6 +3,6 @@ $$
 $$
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8cd4bf31-9a23-41a8-abe3-916c1c76d9cb" alt="GW0j" width="400" />
-  <img src="https://github.com/user-attachments/assets/b46bbc9f-0572-46a1-94bc-7a800f5f876e" alt="GW0Y" width="400" />
+  <img src="https://github.com/user-attachments/assets/8cd4bf31-9a23-41a8-abe3-916c1c76d9cb" alt="GW0j" width="450" />
+  <img src="https://github.com/user-attachments/assets/b46bbc9f-0572-46a1-94bc-7a800f5f876e" alt="GW0Y" width="450" />
 </p>
